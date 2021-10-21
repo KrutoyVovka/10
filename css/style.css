@@ -227,6 +227,9 @@ footer{
 	letter-spacing: 0.15px;
 	color: #4B4B4B;
 }
+.service__button{
+
+}
 .button-center {
 	text-align: center;
 }
@@ -297,12 +300,11 @@ footer{
 	margin: 0px 0px 50px 0px;
 }
 .impact__item {
-	display: inline-block;
-	width: 237px;
 	margin: 0px 0px 24px 0px;
 }
 .item-impact {
-
+	display: inline-block;
+	width: 237px;
 }
 .impact__item:not(:last-child){
 	margin-right: 24px;
